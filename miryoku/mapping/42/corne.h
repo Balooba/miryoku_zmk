@@ -10,19 +10,19 @@
         compatible = "zmk,combos";
         combo_ao {
             timeout-ms = <50>;
-            key-positions = <K10 K11>;
+            key-positions = <10 11>;
             bindings = <&kp LBKT>;
         };
         
         combo_ae {
             timeout-ms = <50>;
-            key-positions = <K10 K12>;
+            key-positions = <10 12>;
             bindings = <&kp SQT>;
         };
          
         combo_oe {
             timeout-ms = <50>;
-            key-positions = <K11 K12>;
+            key-positions = <11 12>;
             bindings = <&kp SEMI>;
         };
     };
