@@ -5,7 +5,7 @@
 
 #define XXX &none
 
-/ {
+{
     combos {
         compatible = "zmk,combos";
         combo_ao {
